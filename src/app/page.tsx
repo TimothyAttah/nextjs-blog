@@ -64,6 +64,7 @@ export default function Home() {
           <p>Learn about Next.js in an interactive course with&nbsp;quizzes!</p>
           <p>This is next js blog</p>
           <h2>Am gonna learn how to work with next js.</h2>
+          <p>Lord help me!!!</p>
         </a>
 
         <a
