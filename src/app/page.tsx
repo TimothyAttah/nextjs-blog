@@ -75,9 +75,7 @@ export default function Home() {
           target='_blank'
           rel='noopener noreferrer'
         >
-          <h2>
-            Templates <span>-&gt;</span>
-          </h2>
+          <h2>Templates</h2>
           <p>Explore the Next.js 13 playground....</p>
         </a>
 
