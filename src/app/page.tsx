@@ -66,6 +66,7 @@ export default function Home() {
           <h2>Am gonna learn how to work with next js.</h2>
           <p>Lord help me!!!</p>
           <p>Cannot wait to start this next js journey.</p>
+          <span>Okay...</span>
         </a>
 
         <a
