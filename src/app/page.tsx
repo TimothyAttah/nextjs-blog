@@ -86,9 +86,9 @@ export default function Home() {
           rel='noopener noreferrer'
         >
           {/* <h2>Deploy!!!</h2> */}
-          <p>
+          <h3>
             Instantly deploy your Next.js site to a shareable URL with Vercel.
-          </p>
+          </h3>
         </a>
       </div>
     </main>
