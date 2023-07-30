@@ -76,7 +76,7 @@ export default function Home() {
           rel='noopener noreferrer'
         >
           <h2>Templates...</h2>
-          <p>Explore the Next.js 13 playground.</p>
+          {/* <p>Explore the Next.js 13 playground.</p> */}
         </a>
 
         <a
