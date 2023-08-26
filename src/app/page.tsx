@@ -94,6 +94,7 @@ export default function Home() {
         <div>
           <h2>Dan change this comment...</h2>
           <p>This is another comment.</p>
+          <span>This is a span tag</span>
         </div>
       </div>
     </main>
