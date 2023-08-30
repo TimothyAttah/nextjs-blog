@@ -101,6 +101,7 @@ export default function Home() {
         <div>
           <h2>Yes. The blacklist is here.</h2>
           <p>Yes this is another comment again. </p>
+          <p>Try and change something if the laptop is at home. Thank you.</p>
         </div>
       </div>
     </main>
