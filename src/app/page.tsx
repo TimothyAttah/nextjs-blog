@@ -105,6 +105,7 @@ export default function Home() {
           <ul>
             <li>This is use for list of items.</li>
             <li>Add something else here.</li>
+            <li>This is another list. Change the sentence.</li>
           </ul>
         </div>
       </div>
