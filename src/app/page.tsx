@@ -99,10 +99,10 @@ export default function Home() {
           <p>Made another comment again.</p>
         </div>
         <div>
-          <h2>Yes. The blacklist is here.</h2>
+          <h2 className='subheading'>Yes. The blacklist is here.</h2>
           <p>Yes this is another comment again. </p>
           <p>Try and change something if the laptop is at home. Thank you.</p>
-          <ul>
+          <ul className='list__items'>
             <li>This is use for list of items.</li>
             <li>Add something else here.</li>
             <li>This is another list. Change the sentence.</li>
