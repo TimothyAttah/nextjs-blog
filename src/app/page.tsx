@@ -111,6 +111,7 @@ export default function Home() {
         </div>
         <div>
           <h1>Happy Sunday Family...</h1>
+          <p>Thank God for today.</p>
         </div>
       </div>
     </main>
