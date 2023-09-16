@@ -115,7 +115,6 @@ export default function Home() {
           <p>Thank God for today.</p>
           <h1>Thank God for journey mercies.</h1>
           <p>God help me.</p>
-          <h5>Do not know what to do.</h5>
         </div>
       </div>
     </main>
