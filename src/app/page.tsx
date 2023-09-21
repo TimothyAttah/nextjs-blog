@@ -116,6 +116,7 @@ export default function Home() {
           <h1>Thank God for journey mercies.</h1>
           <p>God help me. And help us too.</p>
           <h1>Thank you Lord for today.</h1>
+          <p>Download instagram clone video.</p>
         </div>
       </div>
     </main>
