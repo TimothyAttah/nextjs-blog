@@ -100,7 +100,6 @@ export default function Home() {
           <span>This is a span tag. Try to change it.</span>
           <h3>This is a subheader in h3 tag.</h3>
           <p>Adding more list to this. Hope you never got to see this.</p>
-          <p>New list here again.</p>
         </div>
         <div>
           <h2 className='subheading'>Yes. The blacklist is here.</h2>
