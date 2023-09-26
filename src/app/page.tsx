@@ -110,6 +110,7 @@ export default function Home() {
             <li>Add something else here.</li>
             <li>This is another list. Change the sentence.</li>
             <li>I just want to say thank You Lord.</li>
+            <li>Some things will start happening now.</li>
           </ul>
         </div>
         <div>
