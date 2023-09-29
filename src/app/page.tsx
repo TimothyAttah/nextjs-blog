@@ -112,6 +112,7 @@ export default function Home() {
             <li>I just want to say thank You Lord.</li>
             <li>Some things will start happening now.</li>
             <li>Trying to do some work.</li>
+            <li>Try finish one app.</li>
           </ul>
         </div>
         <div>
