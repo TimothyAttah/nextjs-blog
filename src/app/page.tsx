@@ -113,6 +113,7 @@ export default function Home() {
             <li>Some things will start happening now.</li>
             <li>Trying to do some work.</li>
             <li>Try finish one app.</li>
+            <li>Lord help me on my three days journey.</li>
           </ul>
         </div>
         <div>
