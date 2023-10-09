@@ -94,7 +94,8 @@ export default function Home() {
           <h4>This is it. Help me find my way oh Lord.</h4>
           <p>Today is another day oh Lord.</p>
         </a>
-        <div>
+        <div className='text_box'>
+          <h1>DANIEL COMMENT</h1>
           <h2>Dan change this comment...</h2>
           <p>This is another comment.</p>
           <span>This is a span tag. Try to change it.</span>
