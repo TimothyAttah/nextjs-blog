@@ -96,7 +96,7 @@ export default function Home() {
         </a>
         <div className='text_box'>
           <h1>DANIEL COMMENT</h1>
-          <h2>Dan change this comment...</h2>
+          <h2>Dan changed this comment...</h2>
           <p>This is another comment.</p>
           <span>This is a span tag. Try to change it.</span>
           <h3>This is a subheader in h3 tag.</h3>
