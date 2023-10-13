@@ -100,6 +100,7 @@ export default function Home() {
           <p>This is another comment.</p>
           <span>This is a span tag. Try to change it.</span>
           <h3>This is a subheader in h3 tag.</h3>
+          <p>This tag is called the paragraph tag.</p>
         </div>
         <div>
           <h2 className='subheading'>Yes. The blacklist is here.</h2>
