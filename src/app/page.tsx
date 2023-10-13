@@ -123,7 +123,6 @@ export default function Home() {
           <p>God help me. And help us too.</p>
           <h1>Thank you Lord for today.</h1>
           <p>Download instagram clone video.</p>
-          <h1>Thank God for the five days journey. I thank you Lord.</h1>
         </div>
       </div>
     </main>
