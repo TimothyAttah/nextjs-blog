@@ -112,7 +112,6 @@ export default function Home() {
             <li>This is another list. Change the sentence.</li>
             <li>I just want to say thank You Lord.</li>
             <li>Some things will start happening now.</li>
-            <li>Trying to do some work and its already giving issues.</li>
             <li>Try finish one app!!!</li>
             <li>This is good Dan. You are doing well.</li>
             <li>You too Mark!!!</li>
