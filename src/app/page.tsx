@@ -128,6 +128,7 @@ export default function Home() {
           <h1>Thank you Lord God for the journey mercy of my mum. </h1>
           <p>And for our GOING and COMING. We praise and thank you. </p>
           <p>Thank God for journey mercies.</p>
+          <p>Today is another day. Take control. Amen</p>
         </div>
       </div>
     </main>
