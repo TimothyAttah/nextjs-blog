@@ -102,9 +102,6 @@ export default function Home() {
           <h3>This is a subheader in h3 tag.</h3>
           <p>This tag is called the paragraph tag.</p>
           <p>Where did you change Dan.</p> {/** THIS IS CALLED A COMMENT*/}
-          <ul>
-            <ol>This is called an ordered list</ol>
-          </ul>
         </div>
         <div>
           <h2 className='subheading'>Yes. The blacklist is here.</h2>
