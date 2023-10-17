@@ -126,7 +126,10 @@ export default function Home() {
           <h1>Thank God for journey mercies.</h1>
           <p>God help me. And help us too.</p>
           <h1>Thank you Lord for today.</h1>
-          <p>Download instagram clone video.</p>
+          <p>
+            Download instagram clone video. I don`&apos;`t know where to get the
+            data from now.
+          </p>
         </div>
         <div>
           <h1>Thank you Lord God for the journey mercy of my mum. </h1>
