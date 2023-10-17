@@ -125,6 +125,10 @@ export default function Home() {
             Download instagram clone video. I don`&apos;`t know where to get the
             data from now.
           </p>
+          <p>
+            Oh yes. Today is another day Oh Lord. Let your Mercy come upon us oh
+            Lord!
+          </p>
         </div>
         <div>
           <h1>Thank you Lord God for the journey mercy of my mum. </h1>
