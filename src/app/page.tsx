@@ -133,6 +133,7 @@ export default function Home() {
           <p>Today is another day. Take control. Amen</p>
           <p>Everything will work out for our good in Jesus name.</p>
           <p>I cannot thank you enough oh Lord!!!</p>
+          <h2>Lord I need your guidance.</h2>
         </div>
       </div>
     </main>
