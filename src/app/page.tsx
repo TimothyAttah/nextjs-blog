@@ -134,6 +134,7 @@ export default function Home() {
           <p>Thank God for journey mercies.</p>
           <p>Today is another day. Take control. Amen</p>
           <p>Everything will work out for our good in Jesus name.</p>
+          <p>I cannot thank you enough oh Lord!!!</p>
         </div>
       </div>
     </main>
