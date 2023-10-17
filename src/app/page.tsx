@@ -133,6 +133,7 @@ export default function Home() {
           <p>And for our GOING and COMING. We praise and thank you. </p>
           <p>Thank God for journey mercies.</p>
           <p>Today is another day. Take control. Amen</p>
+          <p>Everything will work out for our good in Jesus name.</p>
         </div>
       </div>
     </main>
