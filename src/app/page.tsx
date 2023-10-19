@@ -133,6 +133,9 @@ export default function Home() {
             Thank you Lord for today. I know your grace will be upon me tomorrow
             and upon my family. From now on in Jesus name. Amen.
           </p>
+          <p>
+            Lord let your mercy come upon me and my family in Jesus name. Amen.
+          </p>
         </div>
         <div>
           <h1>Thank you Lord God for the journey mercy of my mum. </h1>
