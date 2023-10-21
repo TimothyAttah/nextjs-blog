@@ -76,7 +76,7 @@ export default function Home() {
         >
           <h2>Templates...</h2>
           <p>Explore the Next.js 13 playground.</p>
-          <p>Exploring the playground.</p>
+          <p>Exploring the playground now.</p>
         </a>
 
         <a
