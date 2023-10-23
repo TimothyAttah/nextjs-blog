@@ -152,6 +152,7 @@ export default function Home() {
             name. Amen.
           </h1>
           <p>No weapon fashion againt shall prosper.</p>
+          <p>Thank you Jesus for Mark and my family.</p>
         </div>
       </div>
     </main>
