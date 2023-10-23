@@ -146,6 +146,12 @@ export default function Home() {
           <p>I cannot thank you enough oh Lord!!!</p>
           <h2>Lord I need your guidance.</h2>
         </div>
+        <div>
+          <h1>
+            Oh Lord give my brother Mark quick healing and good health in Jesus
+            name. Amen.
+          </h1>
+        </div>
       </div>
     </main>
   );
