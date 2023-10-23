@@ -151,6 +151,7 @@ export default function Home() {
             Oh Lord give my brother Mark quick healing and good health in Jesus
             name. Amen.
           </h1>
+          <p>No weapon fashion againt shall prosper.</p>
         </div>
       </div>
     </main>
