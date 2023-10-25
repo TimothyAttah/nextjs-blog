@@ -170,7 +170,10 @@ export default function Home() {
             are in Jesus name. Amen.
           </p>
           <p>Father Lord guard I cover myself with the blood of Jesus. Amen.</p>
-          <p>Help me Oh Lord with my new found relationship with Martha.</p>
+          <p>
+            Help me Oh Lord with my new found relationship with Martha. Don't
+            let me mess it up Jesus name. Amen.
+          </p>
         </div>
       </div>
     </main>
