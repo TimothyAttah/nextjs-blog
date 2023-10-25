@@ -87,7 +87,8 @@ export default function Home() {
         >
           <h2>Deploy!!!</h2>
           <h3>
-            Instantly deploy your Next.js site to a shareable URL with Vercel.
+            {/* Instantly deploy your Next.js site to a shareable URL with Vercel. */}
+            New things are coming.
           </h3>
           <h4>This is it. Help me find my way oh Lord.</h4>
           <p>Today is another day oh Lord.</p>
