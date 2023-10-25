@@ -153,6 +153,10 @@ export default function Home() {
           </h1>
           <p>No weapon fashion againt shall prosper.</p>
           <p>Thank you Jesus for Mark and my family.</p>
+          <p>
+            Father Lord guard and protect my brothers and sister where ever they
+            are in Jesus name. Amen.
+          </p>
         </div>
       </div>
     </main>
