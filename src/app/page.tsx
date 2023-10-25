@@ -171,8 +171,8 @@ export default function Home() {
           </p>
           <p>Father Lord guard I cover myself with the blood of Jesus. Amen.</p>
           <p>
-            Help me Oh Lord with my new found relationship with Martha. Don't
-            let me mess it up Jesus name. Amen.
+            Help me Oh Lord with my new found relationship with Martha.
+            Don&apos;t let me mess it up Jesus name. Amen.
           </p>
         </div>
       </div>
