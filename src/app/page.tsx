@@ -127,7 +127,7 @@ export default function Home() {
           </p>
           <p>
             Oh yes. Today is another day Oh Lord. Let your Mercy come upon us oh
-            Lord!
+            Lord! Amen.
           </p>
           <p>
             Thank you Lord for today. I know your grace will be upon me tomorrow
