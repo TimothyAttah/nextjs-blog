@@ -161,6 +161,10 @@ export default function Home() {
             Father Lord guard and protect my aunty and her family where ever
             they are in Jesus name. Amen.
           </p>
+          <p>
+            Father Lord guard and protect my uncle and his family where ever
+            they are in Jesus name. Amen.
+          </p>
         </div>
       </div>
     </main>
