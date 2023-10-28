@@ -97,7 +97,7 @@ export default function Home() {
           <h1>DANIEL COMMENT</h1>
           <h2>Dan changed this comment...</h2>
           <p>This is another comment.</p>
-          <span>This is a span tag. Try to change it.</span>
+          <span>This is a span tag. Try to change it again.</span>
           <h3>This is a subheader in h3 tag.</h3>
           <p>This tag is called the paragraph tag.</p>
           <p>Where did you change Dan.</p> {/** THIS IS CALLED A COMMENT*/}
