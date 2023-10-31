@@ -175,6 +175,7 @@ export default function Home() {
             Help me Oh Lord with my new found relationship with Martha.
             Don&apos;t let me mess it up Jesus name. Amen.
           </p>
+          <p>Father take over tomorrow handing over in Jesus name. Amen.</p>
         </div>
       </div>
     </main>
