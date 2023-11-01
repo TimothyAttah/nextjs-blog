@@ -177,6 +177,9 @@ export default function Home() {
           </p>
           <p>Father take over tomorrow handing over in Jesus name. Amen.</p>
         </div>
+        <div>
+          <h1>Lord I thank you for the feast of All Saint today.</h1>
+        </div>
       </div>
     </main>
   );
