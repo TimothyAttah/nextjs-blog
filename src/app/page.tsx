@@ -179,6 +179,10 @@ export default function Home() {
         </div>
         <div>
           <h1>Lord I thank you for the feast of All Saint today.</h1>
+          <h2>
+            Today is the feast of All Souls. May the souls of all the faithful
+            departed through the mercy of God rest in Peace. Amen.
+          </h2>
         </div>
       </div>
     </main>
