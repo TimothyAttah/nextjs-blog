@@ -183,6 +183,9 @@ export default function Home() {
             Today is the feast of All Souls. May the souls of all the faithful
             departed through the mercy of God rest in Peace. Amen.
           </p>
+          <h4>
+            Lord God I thank you for saving my Dad Life from Okada Accident.
+          </h4>
         </div>
       </div>
     </main>
