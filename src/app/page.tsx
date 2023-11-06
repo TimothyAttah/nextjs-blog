@@ -114,7 +114,7 @@ export default function Home() {
             <li>Some things will start happening now from henceforth.</li>
             <li>Try finish one app!!!</li>
             <li>This is good Daniel. You are doing well.</li>
-            <li>You too Mark!!!</li>
+            {/* <li>You too Mark!!!</li> */}
           </ul>
         </div>
         <div>
