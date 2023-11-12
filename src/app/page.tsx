@@ -109,12 +109,15 @@ export default function Home() {
           <ul className='list__items'>
             <li>This is use for list of items.</li>
             <li>Add something else here.</li>
-            <li>This is another list. Change the sentence.</li>
+            <li>This is another list. Chang e the sentence.</li>
             <li>I just want to say thank You Lord.</li>
             <li>Some things will start happening now from henceforth.</li>
             <li>Try finish one app!!!</li>
             <li>This is good Daniel. You are doing well.</li>
             <li>You too Mark!!!</li>
+            <li>
+              Am a little bit confuse oh Lord. Please help me and my brothers.
+            </li>
           </ul>
         </div>
         <div>
