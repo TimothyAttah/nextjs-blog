@@ -190,6 +190,12 @@ export default function Home() {
             Lord God I thank you for saving my Dad Life from Okada Accident.
           </h4>
         </div>
+        <div>
+          <h1>
+            Lord I thank you for the JOB you have given to me as a web
+            developer.
+          </h1>
+        </div>
       </div>
     </main>
   );
