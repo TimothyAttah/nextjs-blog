@@ -195,6 +195,7 @@ export default function Home() {
             Lord I thank you for the JOB you have given to me as a web
             developer.
           </h1>
+          <p>Thank you Father for a new day.</p>
         </div>
       </div>
     </main>
