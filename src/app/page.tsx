@@ -118,6 +118,7 @@ export default function Home() {
             <li>
               Am a little bit confuse oh Lord. Please help me and my brothers.
             </li>
+            <li>I will sing a new song.</li>
           </ul>
         </div>
         <div>
