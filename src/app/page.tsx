@@ -128,10 +128,9 @@ export default function Home() {
           <p>God help me. And help us too.</p>
           <h1>Thank you Lord for today!!!</h1>
           <p>Lord forgive me my sins.</p>
-
           <p>
             Oh yes. Today is another day Oh Lord. Let your Mercy come upon us oh
-            Lord! Amen.
+            Lord!!! Amen.
           </p>
           <p>
             Thank you Lord for today. I know your grace will be upon me tomorrow
