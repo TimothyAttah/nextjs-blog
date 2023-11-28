@@ -99,7 +99,7 @@ export default function Home() {
           <p>This is another comment.</p>
           <span>This is a span tag. Try to change it again.</span>
           <h3>This is a subheader in h3 tag.</h3>
-          {/* <p>This tag is called the paragraph tag.</p> */}
+          <p>This tag is called the paragraph tag.</p>
           <p>Where did you change Dan.</p> {/** THIS IS CALLED A COMMENT*/}
         </div>
         <div>
