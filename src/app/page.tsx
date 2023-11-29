@@ -76,7 +76,7 @@ export default function Home() {
         >
           <h2>Templates...</h2>
           <p>Explore the Next.js 13 playground.</p>
-          <p>Exploring the playground now.</p>
+          <p>Exploring the playground now!!!</p>
         </a>
 
         <a
@@ -195,6 +195,10 @@ export default function Home() {
             developer.
           </h1>
           <p>Thank you Father for a new day.</p>
+          <h3>
+            Oh Lord grant quick recovery to my brother Daniel in Jesus name.
+            Amen.
+          </h3>
         </div>
       </div>
     </main>
