@@ -199,6 +199,10 @@ export default function Home() {
             Oh Lord grant quick recovery to my brother Daniel in Jesus name.
             Amen.
           </h3>
+          <h4>Father help with this clients of mine.</h4>
+          <p>
+            Help to land new clients and not lose anyone. In Jesus name. Amen.
+          </p>
         </div>
       </div>
     </main>
