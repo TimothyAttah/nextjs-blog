@@ -203,6 +203,10 @@ export default function Home() {
           <p>
             Help to land new clients and not lose anyone. In Jesus name. Amen.
           </p>
+          <h1>
+            Oh Lord grant Daniel my brother with quick recovery in Jesus name.
+            Amen.
+          </h1>
         </div>
       </div>
     </main>
