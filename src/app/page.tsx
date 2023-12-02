@@ -205,7 +205,7 @@ export default function Home() {
           </p>
           <h1>
             Oh Lord grant Daniel my brother with quick recovery in Jesus name.
-            Amen.
+            Amen!!!
           </h1>
         </div>
       </div>
