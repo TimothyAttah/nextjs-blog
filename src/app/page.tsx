@@ -207,6 +207,7 @@ export default function Home() {
             Oh Lord grant Daniel my brother with quick recovery in Jesus name.
             Amen!!!
           </h1>
+          <h4>Oh Lord Please help me with my current clients projects.</h4>
         </div>
       </div>
     </main>
