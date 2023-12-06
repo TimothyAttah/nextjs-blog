@@ -211,6 +211,7 @@ export default function Home() {
             Oh Lord Please help me with my current clients projects in Jesus
             name. Amen.
           </h4>
+          <h2>Help Lord financially in Jesus name Amen.</h2>
         </div>
       </div>
     </main>
