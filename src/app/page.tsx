@@ -213,6 +213,12 @@ export default function Home() {
           </h4>
           <h2>Help Lord financially in Jesus name Amen.</h2>
         </div>
+        <div>
+          <h1>
+            Oh Lord please help my Daniel to open his mouth and talk well. In
+            Jesus name. Amen.
+          </h1>
+        </div>
       </div>
     </main>
   );
