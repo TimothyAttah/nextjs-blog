@@ -216,9 +216,9 @@ export default function Home() {
         <div>
           <h1>
             Oh Lord please help my Daniel to open his mouth and talk well. In
-            Jesus name. Amen.
+            Jesus name. Ame!!!.
           </h1>
-          <p>Help me oh Lord.</p>
+          <p>Help me oh Lord!!!</p>
         </div>
       </div>
     </main>
