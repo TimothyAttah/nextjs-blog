@@ -219,6 +219,7 @@ export default function Home() {
             Jesus name. Ame!!!.
           </h1>
           <p>Help me oh Lord!!!</p>
+          <h1>Help me finish one client project oh Lord.</h1>
         </div>
       </div>
     </main>
