@@ -220,6 +220,11 @@ export default function Home() {
           </h1>
           <p>Help me oh Lord!!!</p>
           <h1>Help me finish one client project oh Lord.</h1>
+          <h1>Baba I thank you for Daniel quick recovery.</h1>
+          <h2>
+            Baba Please finish your work and help us with what we will celebrate
+            with. This Christmas. Amen.
+          </h2>
         </div>
       </div>
     </main>
