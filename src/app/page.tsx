@@ -223,7 +223,7 @@ export default function Home() {
           <h1>Baba I thank you for Daniel quick recovery.</h1>
           <h2>
             Baba Please finish your work and help us with what we will celebrate
-            with. This Christmas. Amen.
+            with. This Christmas!!! Amen.
           </h2>
         </div>
       </div>
