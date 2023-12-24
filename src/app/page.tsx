@@ -225,6 +225,10 @@ export default function Home() {
             Baba Please finish your work and help us with what we will celebrate
             with. This Christmas!!! Amen.
           </h2>
+          <p>
+            Help me in my dreams Oh Lord. Help me to be victorious against my
+            enemies. In Jesus name. Amen.
+          </p>
         </div>
       </div>
     </main>
