@@ -229,6 +229,7 @@ export default function Home() {
             Help me in my dreams Oh Lord. Help me to be victorious against my
             enemies. In Jesus name. Amen.
           </p>
+          <p>Merry Christmas!!!</p>
         </div>
       </div>
     </main>
