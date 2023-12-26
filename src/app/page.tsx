@@ -231,6 +231,8 @@ export default function Home() {
           </p>
           <p>Merry Christmas!!!</p>
           <h1>Happy Birthday Jesus.</h1>
+
+          <h2>Lord I thank for yesterday.</h2>
         </div>
       </div>
     </main>
