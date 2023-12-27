@@ -234,6 +234,12 @@ export default function Home() {
 
           <h2>Lord I thank for yesterday.</h2>
         </div>
+        <div>
+          <h2>
+            Lead me oh Lord very step of the way from now on. In Jesus name.
+            Amen.
+          </h2>
+        </div>
       </div>
     </main>
   );
