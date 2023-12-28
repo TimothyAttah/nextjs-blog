@@ -239,6 +239,9 @@ export default function Home() {
             Lead me oh Lord very step of the way from now on. In Jesus name.
             Amen.
           </h2>
+          <p>
+            Thank you Jesus for everything you are going to do in our lives.
+          </p>
         </div>
       </div>
     </main>
