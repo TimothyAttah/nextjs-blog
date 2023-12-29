@@ -240,7 +240,8 @@ export default function Home() {
             Amen.
           </h2>
           <p>
-            Thank you Jesus for everything you are going to do in our lives.
+            Thank you Jesus for everything you are going to do in our lives. In
+            Jesus name. Amen.
           </p>
         </div>
       </div>
