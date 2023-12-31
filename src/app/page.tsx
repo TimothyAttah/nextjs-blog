@@ -243,6 +243,9 @@ export default function Home() {
             Thank you Jesus for everything you are going to do in our lives. In
             Jesus name. Amen!!!!!!!
           </p>
+          <h2>
+            Thank you Jesus for everything you are about to do in my life.
+          </h2>
         </div>
       </div>
     </main>
