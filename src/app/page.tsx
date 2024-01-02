@@ -232,7 +232,7 @@ export default function Home() {
           <p>Merry Christmas!!!</p>
           <h1>Happy Birthday Jesus.</h1>
 
-          <h2>Lord I thank for yesterday.</h2>
+          <h2>Lord I thank for yesterday, today and tomorrow.</h2>
         </div>
         <div>
           <h2>
