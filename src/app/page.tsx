@@ -250,6 +250,7 @@ export default function Home() {
           <h1>Happy New Year. Thank you Jesus!!!</h1>
           <h2>My helper will locate me in Jesus Name Amen.</h2>
           <p>God Help Me.</p>
+          <h1>God Help Me.</h1>
         </div>
       </div>
     </main>
