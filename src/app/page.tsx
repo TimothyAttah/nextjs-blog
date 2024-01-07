@@ -250,6 +250,7 @@ export default function Home() {
           <h1>Happy New Year. Thank you Jesus!!!</h1>
           <h2>My helper will locate me in Jesus Name Amen.</h2>
           <p>God Help Me.</p>
+          <p>God Help Me.</p>
           <h1>God Help Me.</h1>
           <h2>Oh Lord Help Me With My New Goals For The Year.</h2>
           <p>Help me Lord to launch my app this year. Amen.</p>
