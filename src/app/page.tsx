@@ -254,6 +254,9 @@ export default function Home() {
           <h1>God Help Me.</h1>
           <h2>Oh Lord Help Me With My New Goals For The Year.</h2>
           <p>Help me Lord to launch my app this year. Amen.</p>
+          <h3>
+            Lord help me at the start of my journey to the finish of it. Amen.
+          </h3>
         </div>
       </div>
     </main>
