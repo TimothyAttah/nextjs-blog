@@ -257,6 +257,7 @@ export default function Home() {
           <h3>
             Lord help me at the start of my journey to the finish of it. Amen.
           </h3>
+          <p>I don&apos;t know what to do anymore. oh Lord.</p>
         </div>
       </div>
     </main>
