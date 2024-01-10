@@ -259,6 +259,9 @@ export default function Home() {
           </h3>
           <p>I don&apos;t know what to do anymore. oh Lord.</p>
         </div>
+        <div>
+          <h1>Oh Jesus when will I receive my financial help?</h1>
+        </div>
       </div>
     </main>
   );
