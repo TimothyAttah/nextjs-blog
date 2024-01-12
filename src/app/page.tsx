@@ -262,6 +262,11 @@ export default function Home() {
         <div>
           <h1>Oh Jesus when will I receive my financial help?</h1>
           <h2>Lord Jesus help me with today interview in Jesus name. Amen.</h2>
+          <h3>Father I thank you for yesterday interview.</h3>
+          <h3>
+            I also thank you for the challenge giving to me. Let your name be
+            glorified in all the way and in this test. Amen.
+          </h3>
         </div>
       </div>
     </main>
