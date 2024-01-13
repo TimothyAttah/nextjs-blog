@@ -267,6 +267,7 @@ export default function Home() {
             I also thank you for the challenge giving to me. Let your name be
             glorified in all the way and in this test. Amen.
           </h3>
+          <h4>Thank you Lord Jesus.</h4>
         </div>
       </div>
     </main>
