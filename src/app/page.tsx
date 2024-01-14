@@ -268,6 +268,9 @@ export default function Home() {
             glorified in all the way and in this test. Amen.
           </h3>
           <h4>Thank you Lord Jesus.</h4>
+          <p>
+            Thank you Jesus for yet another day another blessings. Thank you.
+          </p>
         </div>
       </div>
     </main>
